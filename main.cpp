@@ -1,3 +1,8 @@
+/*
+* Programmed by Gurkirat Saini
+* GAME 230
+*/
+
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include <SFML/Audio.hpp>
@@ -5,7 +10,6 @@
 #include <SFML/System.hpp>
 #include <SFML/OpenGL.hpp>
 #include <SFML/Main.hpp>
-
 #include <iostream>
 
 // global constants
