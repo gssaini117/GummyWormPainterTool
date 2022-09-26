@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\gurki\OneDrive\Documents\Visual Studio 2022\SFML Painting Tool\main.cpp(24,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gurki\OneDrive\Documents\Visual Studio 2022\SFML Painting Tool\main.cpp(43,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gurki\OneDrive\Documents\Visual Studio 2022\SFML Painting Tool\main.cpp(62,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gurki\OneDrive\Documents\Visual Studio 2022\SFML Painting Tool\main.cpp(76,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gurki\OneDrive\Documents\Visual Studio 2022\SFML Painting Tool\main.cpp(75,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Painting Tool.vcxproj -> C:\Users\gurki\OneDrive\Documents\Visual Studio 2022\SFML Painting Tool\Debug\SFML Painting Tool.exe
